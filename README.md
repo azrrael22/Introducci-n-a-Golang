@@ -1,2 +1,2 @@
-# Introducci-n-a-Golang
+# Introduccion a Golang
 Introducción a Golang y desarrollo de una aplicación de escritorio con elementos básicos.
